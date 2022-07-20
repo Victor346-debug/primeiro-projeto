@@ -1,0 +1,28 @@
+body {text-align: center;
+	background-color: #323232;
+}
+h2 {color:white ;
+	font-size: 50px;
+}
+
+img {width:70%;
+	
+}
+figcaption {color: white;
+
+}
+
+.footer {
+background-color: #b0b0be;
+color: #fff;
+padding: 2em;
+display: flex;
+justify-content: space-between;
+
+}
+
+
+
+button2 {background-color: #008CBA;} /* Blue */
+
+
